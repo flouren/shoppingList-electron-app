@@ -2,3 +2,5 @@
 
 - made by TraversyMedia and learn by me :smile:
 
+to build on win:
+@ npm run package-win
